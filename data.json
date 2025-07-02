@@ -22,12 +22,12 @@
     },
     {
       "titre": "Tablette de chocolat noir 70%",
-      "presentation": "Un chocolat noir intense et puissant, aux notes de cacao amer et de fruits secs. Un grand classique de la chocolaterie, à déguster seul ou à utiliser en cuisine.",
+      "presentation": "Un chocolat noir intense aux notes de cacao amer et de fruits secs. Un grand classique de la chocolaterie.",
       "imageUrl": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/chocolatier/tablette-chocolat-noir.webp"
     },
     {
-      "titre": "Coffret de chocolats assortis",
-      "presentation": "Un assortiment de chocolats fins, sélectionnés avec soin par nos chocolatiers. Un cadeau gourmand et raffiné, qui fera plaisir à coup sûr.",
+      "titre": "Coffret de chocolats",
+      "presentation": "Un assortiment de chocolats sélectionnés avec soin par nos chocolatiers.",
       "imageUrl": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/chocolatier/coffret-chocolats-assortis.webp"
     },
     {
